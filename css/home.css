@@ -76,8 +76,10 @@
     padding-left: 1.5rem;
 }
 
-
 .rodape__home{
+    bottom: 0;
+    position: fixed;
+    width: 100vw;
     background-color: var(--azul-agua);
     text-align: center;
     color: white;
