@@ -1,0 +1,9 @@
+.campos__imagem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.foto__perfil{
+    width: 30%;
+}

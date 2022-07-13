@@ -1,0 +1,21 @@
+.texto-login{
+    padding-top: 3.25rem;
+    padding-bottom: 2.6rem;
+}
+
+.body__login{
+    background-position: top left, bottom left, top right;
+}
+
+.login{
+    color: var(--rosa);
+    font-size: .75rem;
+    padding: .5rem;
+}
+
+.page__entrar{
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-bottom: 4rem;
+}
+

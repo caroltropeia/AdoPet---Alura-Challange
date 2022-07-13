@@ -1,0 +1,84 @@
+.home{
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    
+}
+
+.body__home{
+    background-image: url("../img/Forma\ 1.svg");
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+.profilehome__img{
+    padding-left: 8rem;
+    top: auto;
+}
+
+.icones__home{
+    padding-top: .5rem;
+}
+
+.home__principal{
+    padding: 5rem 0;
+    padding-bottom: 0;
+    text-align: center;
+    z-index: initial;
+}
+
+.home__texto{
+    font-size: 1rem;
+    line-height: 1.2rem;
+    color: var(--azul);
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-bottom: 4rem;
+}
+
+.home__pet{
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    background-color: var(--cinza-claro);
+    padding: 1rem 1.5rem;
+    margin-bottom: 1rem;
+    position: fi;
+    z-index: -1;
+}
+
+.home__pet-imagem{
+    padding-top: 1rem;
+}
+
+.home__pet-textos{
+    padding-left: 1rem;
+    line-height: 1.75rem;
+    color: var(--cinza-escuro);
+    
+}
+.home___pet-nome{
+    font-weight: 600;
+    color: var(--azul);
+    padding-top: 1rem;
+    padding-bottom: .5rem;
+}
+
+.home__pet-descricao--local{
+    font-size: .75rem;
+}
+
+.home__pet-descricao--msg{
+    font-size: 0.62rem;
+    background-image: url("../img/msgicon.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    padding-left: 1.5rem;
+}
+
+
+.rodape__home{
+    background-color: var(--azul-agua);
+    text-align: center;
+    color: white;
+}
