@@ -77,8 +77,6 @@
 }
 
 .rodape__home{
-    bottom: 0;
-    position: absolute;
     width: 100vw;
     background-color: var(--azul-agua);
     text-align: center;
